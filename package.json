@@ -1,0 +1,14 @@
+{
+  "name": "hayase-nyaa",
+  "version": "1.0.0",
+  "description": "Hayase extension for Nyaa.si (anime-only, episode-aware)",
+  "main": "src/index.ts",
+  "license": "BUSL-1.1",
+  "dependencies": {
+    "linkedom": "^0.15.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zero0-crypto/hayase-nyaa.git"
+  }
+}
